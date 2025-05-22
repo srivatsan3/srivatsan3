@@ -5,7 +5,7 @@ My work sits at the intersection of machine learning, simulation, and real-world
 
 
 🧪 **Featured Projects:**
--  **Wafer Defect Detection** – Deep learning model to classify semiconductor defects using PyTorch and GCP  
+-  **Leo Rover** – Integrated SLAM, Object Recognition and Manipulator over a Leo Rover System to perform a search and retrieval task
 -  **VAE Scene Reconstruction** – Latent-space interpolation of driving scenes under weather conditions  
 -  **Mechanical Optimization with GA** – Parameter tuning of spring-damper models using genetic algorithms 
 
